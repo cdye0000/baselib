@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseToolBar">
+        <attr name="btb_title_text" format="string|reference" />
+        <attr name="btb_right_text" format="reference|string" />
+        <attr name="btb_title_text_size" format="dimension"/>
+        <attr name="btb_right_text_size" format="dimension"/>
+        <attr name="btn_right_text_color" format="color"/>
+        <attr name="btn_title_text_color" format="color"/>
+
+    </declare-styleable>
+</resources>
